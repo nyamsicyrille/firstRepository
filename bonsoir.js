@@ -1,1 +1,2 @@
-alert('bonsoir')
+alert('bonsoir');
+var t;
